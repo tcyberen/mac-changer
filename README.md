@@ -10,7 +10,7 @@ Bu program, kullanıcıların ağ arayüzlerinin MAC adreslerini değiştirmeler
 2. Terminalde programın bulunduğu klasöre gidin.
 3. Aşağıdaki komutları sırayla çalıştırarak yeni bir MAC adresi belirleyin:
 
-```python3
+```sh
 python3 mac_changer.py -i [arayüz adı] -m [yeni mac adresi]
 ```
 
@@ -33,7 +33,7 @@ This program allows users to change the MAC address of their network interfaces.
 2. Navigate to the folder where the program is located in your terminal.
 3. Run the following command to specify a new MAC address:
 
-```python
+```sh
 python3 mac_changer.py -i [interface name] -m [new mac address]
 ```
 
