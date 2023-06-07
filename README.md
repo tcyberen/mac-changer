@@ -1,4 +1,3 @@
-# MAC Changer
 ## Türkçe README.md
 
 ### MAC Changer
