@@ -20,7 +20,7 @@ python3 mac_changer.py -i [arayüz adı] -m [yeni mac adresi]
 
 #### Önemli Notlar
 - Lütfen bu programın yanlış kullanımından kaynaklanan tüm sorunlardan kendiniz sorumlu olduğunuzu unutmayın.
-- 
+
 ## English README.md
 
 ### MAC Changer
